@@ -1,2 +1,3 @@
 # Project-1
-Calculator
+
+The project is based on Windows Forms and implements a desktop calculation application.
